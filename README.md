@@ -62,5 +62,4 @@ and the supplemental Persian-language Markdown guides are excluded by
 
 ## License
 
-No license file is currently included. Until the project owner adds one, reuse
-permissions have not been granted.
+This project is licensed under the [MIT License](LICENSE).
