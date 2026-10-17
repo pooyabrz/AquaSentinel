@@ -1,0 +1,32 @@
+# Python bytecode and test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Python environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Generated demo and simulation results
+/outputs/
+
+# Persian-language supplemental guides
+*_FA.md
+
+# Temporary EPANET files
+/temp.bin
+/temp.inp
+/temp.rpt
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
